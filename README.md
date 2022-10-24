@@ -18,11 +18,13 @@
 </div>
 
 <div>
+
 ## Portfólio
  
- - <a href="https://saikibruno-pet-shop.netlify.app/" target="_blank">Petshop</a>
+ - [PetShop](https://saikibruno-pet-shop.netlify.app)
+   - ReactJS com API de gatos e API de CEP.
  - [Desputados](https://saikibruno-deputados.netlify.app/)
- 
+   - ReactJS com API de [Dados Abertos](https://dadosabertos.camara.leg.br/swagger/api.html) da câmara dos deputados, API de notícia da Globo e API de CEP
 </div>
  
  <br/>
